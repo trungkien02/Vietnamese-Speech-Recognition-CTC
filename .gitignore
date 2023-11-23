@@ -1,0 +1,29 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore cache files
+__pycache__/
+
+# Ignore package build directory
+build/
+
+# Ignore distribution directory
+dist/
+
+# Ignore egg-info directory
+*.egg-info/
+
+# Ignore vivos, model  directory and zip file
+vivos/
+model/
+vivos.zip
